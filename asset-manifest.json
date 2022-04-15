@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/roboslayer-react/static/css/main.3ddac214.css",
-    "main.js": "/roboslayer-react/static/js/main.f4be90a2.js",
+    "main.js": "/roboslayer-react/static/js/main.d62e0545.js",
     "static/js/787.c0f2a0f3.chunk.js": "/roboslayer-react/static/js/787.c0f2a0f3.chunk.js",
     "index.html": "/roboslayer-react/index.html",
     "main.3ddac214.css.map": "/roboslayer-react/static/css/main.3ddac214.css.map",
-    "main.f4be90a2.js.map": "/roboslayer-react/static/js/main.f4be90a2.js.map",
+    "main.d62e0545.js.map": "/roboslayer-react/static/js/main.d62e0545.js.map",
     "787.c0f2a0f3.chunk.js.map": "/roboslayer-react/static/js/787.c0f2a0f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ddac214.css",
-    "static/js/main.f4be90a2.js"
+    "static/js/main.d62e0545.js"
   ]
 }
