@@ -149,9 +149,7 @@ const App = () => {
     if (gameController.isGameFinished) return;
 
     // Enemy hit back
-    setTimeout(() => {
-      attack("player", Math.floor(Math.random() * 2));
-    }, 1000);
+    attack("player", Math.floor(Math.random() * 2));
   };
 
   return (
