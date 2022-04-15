@@ -1,0 +1,9 @@
+.health {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.player-role {
+  color: #0ccac4;
+  font-family: "Chakra Petch", sans-serif;
+}
