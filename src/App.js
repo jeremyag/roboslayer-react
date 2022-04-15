@@ -149,7 +149,9 @@ const App = () => {
     if (gameController.isGameFinished) return;
 
     // Enemy hit back
-    attack("player", Math.floor(Math.random() * 2));
+    setTimeout(() => {
+      attack("player", Math.floor(Math.random() * 2));
+    }, 1000);
   };
 
   return (
@@ -157,7 +159,7 @@ const App = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-12">
-            <h1 class="app-title">ROBOSLAYER</h1>
+            <h1 className="app-title">ROBOSLAYER</h1>
           </div>
         </div>
         <div className="row">
